@@ -5836,3 +5836,12 @@ header > .menuIcon{
 .scroll-text ul li:not(last-child){
     margin-right: 20px;
 }
+
+
+#admission_2024 p {
+    background: orangered!important;
+    padding: 15px 25px;
+    font-size: 23px;
+    margin-bottom: 10px;
+    color: #fff;
+}
