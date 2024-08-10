@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KMCH College of Pharmacy</title>
+	<title>SITS PHARMA College of Pharmacy</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -116,7 +116,7 @@ z-index: 999 !important;
 }
     </style>
 <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 	
 <!--<div class="whatsapp">
@@ -127,7 +127,7 @@ z-index: 999 !important;
 </head>
 
 <body class="innerPage">
-<script type="text/javascript"> var npf_d='https://admissions.kmch.ac.in'; var npf_c='5143'; var
+<script type="text/javascript"> var npf_d='https://admissions.SITS PHARMA.ac.in'; var npf_c='5143'; var
 npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true;
 s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
 	<div id="fb-root"></div>
@@ -157,7 +157,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 				<section class="section_padding" id="tab_section">
 				    <div class="container">
 			              <div class="dept_title">
-			              	<h2>Life @ KMCH COP</h2>
+			              	<h2>Life @ SITS PHARMA COP</h2>
 			              </div>
 				          <div class="pages_tabs1">
 				          	<!-- Tab panes -->

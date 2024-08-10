@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KMCH College of Pharmacy</title>
+	<title>SITS PHARMA College of Pharmacy</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -116,7 +116,7 @@ z-index: 999 !important;
 }
     </style>
 <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 	
 <!--<div class="whatsapp">
@@ -127,7 +127,7 @@ z-index: 999 !important;
 </head>
 
 <body class="innerPage">
-<script type="text/javascript"> var npf_d='https://admissions.kmch.ac.in'; var npf_c='5143'; var
+<script type="text/javascript"> var npf_d='https://admissions.SITS PHARMA.ac.in'; var npf_c='5143'; var
 npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true;
 s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
 	<div id="fb-root"></div>
@@ -262,8 +262,8 @@ console.log(responseData);
 
 <section>
 	<div class="page_banner">
-		<img src="images/page_banner/contact.jpg" alt="KMCH" class="dt_img">
-    <img src="images/page_banner/contact_mob.jpg" alt="KMCH" class="mob_img">
+		<img src="images/page_banner/contact.jpg" alt="SITS PHARMA" class="dt_img">
+    <img src="images/page_banner/contact_mob.jpg" alt="SITS PHARMA" class="mob_img">
      <div class="content1 right">
 			<h1>We're Here to Help !</h1>
 		</div>
@@ -273,30 +273,33 @@ console.log(responseData);
 <section class="section_padd">
   <div class="container">
       <h2>Contact Us</h2>
+      
+
+
     <div class="content_area">
       <div class="row">
         <div class="col-md-6">
         <h4 class="mt-0">Addresss</h4>
               <div class="bg_color1">
-                <div><strong>KMCH College of Pharmacy,</strong></div>
-               S.F.No: 940/1A & 1B, <br> 
-               Kovai Estate, Kalapatti Road,<br>
-                  Coimbatore – 641 048. Tamil Nadu.,<br>
-          Phone: <a href="tel:+914222369302">+91 422 2369302</a> <br/>
-          Email: <a href="mailto:pharmacy@kmch.ac.in">pharmacy@kmch.ac.in</a>
+                <div><strong>SIDDHARTHA INSTITUTE OF PHARMACY,</strong></div>
+                Narapally (V), Korremula Road, <br> 
+                Ghatkesar Mandal, Medchal Malkajgiri Dist,<br>
+                  Hyderabad, Telangana 501301,<br>
+          Phone: <a href="tel:+919908535188">+91 9908535188, 9542600088</a> <br/>
+          Email: <a href="mailto:Principal.siddhartha.pharmacy@gmail.com">Principal.siddhartha.pharmacy@gmail.com</a>
           </p>
               </div>  
               <hr/>
                 <h4 class="mt-0">For Admission </h4>
                 <div class="bg_color1 mb-3">
                   <div><strong>Admission Officer, </strong></div>
-                  Dr NGP Research and Educational Trust, <br> 
-				 (Formerly Kovai Medical Center Research and Educational Trust)<br> 
-                  Kovai Estate, Kalapatti Road,<br>
-                  Coimbatore – 641 048. Tamil Nadu.,<br>
-                  Mobile: +91 89258 333 15<br>
-                  Phone: 422 2369300, 2369321,<br>
-                    Email: <a href="mailto:admission@kmch.ac.in">admission@kmch.ac.in</a>
+                  Narapally (V), Korremula Road,<br> 
+                  Ghatkesar Mandal, Medchal Malkajgiri Dist,<br> 
+                  Hyderabad, Telangana 501301,<br>
+                  
+                  Mobile: +91 9908535188<br>
+                  Phone:  +91 9542600088<br>
+                    Email: <a href="mailto:Principal.siddhartha.pharmacy@gmail.com">Principal.siddhartha.pharmacy@gmail.com</a>
 
           </div>
         </div>
@@ -331,6 +334,19 @@ console.log(responseData);
                       </div>
                       </div>
                       <div class="col-md-6">
+                      <div class="form-group">
+                        <label for="c_type">Type of Message</label>
+                        
+                        <select name="c_type" id="c_type"  class="form-control" required>
+                          <option>Select Type</option>
+                          <option value="Grievance Redressal">Grievance Redressal</option>
+                          <option value="Feedback">Feedback</option>
+                          <option value="Admission Enquiry Form">Admission Enquiry Form</option>
+                        </select>
+                        <div id="alert_subject" class="errorMsg"></div>
+                      </div>
+                    </div>
+                    <div class="col-md-12">
                       <div class="form-group">
                         <label for="c_subject">Subject</label>
                         <input type="text" class="form-control" name="c_subject" id="c_subject" placeholder="Enter Subject" required>
@@ -402,13 +418,7 @@ console.log(responseData);
     font-size: 14px;
 }
 </style>
-	  <script 
-      type="text/javascript"
-      src="https://d2jyl60qlhb39o.cloudfront.net/integration-plugin.js"
-      id="wa-widget"
-      widget-id="MEwtb8"
-    >
-    </script>
+	 
 	<script src="js/custom.js"></script>
 	<!--<button type="button" class="npfWidgetButton npfWidget-a347f84b7fa3ecd0635a90e3f5a6fec7 blinking">Admission Enquiry!</button><script src="https://in5cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa347f84b7fa3ecd0635a90e3f5a6fec7 = new NpfWidgetsInit({'widgetId': 'a347f84b7fa3ecd0635a90e3f5a6fec7','baseurl': 'widgets.in5.nopaperforms.com','formTitle': 'Admission Enquiry','titleColor': '#FF0033','backgroundColor': '#ddd','iframeHeight': '500px','buttonbgColor': '#ff0000','buttonTextColor': '#FFF',    });</script>-->
 	

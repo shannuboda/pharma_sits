@@ -7,13 +7,19 @@ echo "";
 ?>
     
     <header class="fixed">
-		<div class="container" style="background: darkblue;">
+		<div class="container" style="background: blue;">
 			<div class="header_top">
 				<div class="left">
-					<a href="index.php" class="logo"><img src="images/logo_header.png" alt="KMCH Institute of Allied health Sciences" style="max-width: 63%;"></a>
+					<a href="index.php" class="logo"><img src="images/logo_header.png" alt="SITS PHARMA Institute of Allied health Sciences" style="max-width: 43%;"></a>
 				</div>
-				<div class="right">
-					
+				<div class="right" style="display:flex; align-items:center;">
+				<a href="index.php" class="logo"><img src="images/logo_header2.png" alt="SITS PHARMA Institute of Allied health Sciences" style="max-width: 43%;"></a>
+				<div class="menuIcon">
+							  <div class="bar1"></div>
+							  <div class="bar2"></div>
+							  <div class="bar3"></div>
+							
+							</div>
 				</div>
 			</div>
 		</div>
@@ -28,38 +34,71 @@ echo "";
 
 				
 					<li><a class="<?php echo $currentPage ==='index.php'?'active':'';?>" href="index.php">Home</a></li>
-					<li><a class="<?php echo $currentPage ==='about-us.php'?'active':'';?>" href="about-us.php">About Us</a>
-					</li>
-					<li class="has-sub"><a href="#" class="<?php echo ($currentPage ==='programmes.php' || $currentPage ==='departments.php'|| $currentPage ==='mou-s.php'|| $currentPage ==='peo-po.php'|| $currentPage ==='training.php') ?'active':'';?>">Academics <span class="dropdown-toggle"></span></a>
+					<li class="has-sub"><a class="<?php echo $currentPage ==='about-us.php'?'active':'';?>" href="about-us.php">About Us</a>
+					<ul>
+							<li><a href="about-us.php#tab4">Vision & Mission</a></li>
+							<li><a href="about-us.php#tab2">Silent Features</a></li>
+							<li><a href="about-us.php#tab5_1">Chairman's Message</a></li>
+							<li><a href="about-us.php#tab5_2">Director's Message</a></li>
+							<li><a href="about-us.php#tab5">Principal's Message</a></li>
+							<li><a href="about-us.php#tab0">Committees</a></li>
+							<li><a href="about-us.php#tab3">Governing Body</a></li>
+
+						</ul>
+				
+				</li>
+					<li class="has-sub"><a href="#" class="<?php echo ($currentPage ==='peo-po.php' || $currentPage ==='departments.php'|| $currentPage ==='mou-s.php'|| $currentPage ==='peo-po.php'|| $currentPage ==='training.php') ?'active':'';?>">Academics</a>
 						<ul>
-							<li><a href="programmes.php">Programmes</a></li>
-							<li><a href="departments.php">Departments</a></li>
-							<li><a href="mou-s.php">MoUs</a></li>
-							<li><a href="peo-po.php">PEO & PO</a></li>
-							<li><a href="training.php">Training</a></li>
+							<li><a href="peo-po.php#tab0">Academic Regulations</a></li>
+							<li><a href="peo-po.php#tab1">Academic Calendar</a></li>
+							<li><a href="peo-po.php#tab2">Academic Syllabus</a></li>
+							<li><a href="peo-po.php#tab3">Exam Time Table</a></li>
+							<li><a href="peo-po.php#tab4">Awards</a></li>
 						</ul>
 					</li>
+					<li class="has-sub"><a class="<?php echo $currentPage ==='admission.php'?'active':'';?>" href="admission.php">Admission</a>
+					<ul>
+							<li><a href="admission.php#tab0">Programmes Offered</a></li>
+							<li><a href="admission.php#tab1">Rules and Regulations</a></li>
+							<li><a href="admission.php#tab2">Admission Procedure</a></li>
+							<li><a href="admission.php#tab3">Admission Request</a></li>
+						</ul>
+				
+				</li>
+					<li class="has-sub"><a class="<?php echo $currentPage ==='infrastructure.php'?'active':'';?>" href="infrastructure.php">Infrastructure</a>
+					<ul>
+							<li><a href="infrastructure.php#tab0">Laboratories</a></li>
+							<li><a href="infrastructure.php#tab6">Transport</a></li>
+							<li><a href="infrastructure.php#tab1">Canteen</a></li>
+							<li><a href="infrastructure.php#tab2">Sports</a></li>
+						</ul>
+				</li>
+					
+					<li class="has-sub"><a class="<?php echo $currentPage ==='placement.php'?'active':'';?>" href="placement.php">Placement</a>
+					<ul>
+							<li><a href="placement.php#tab0">Our RECRUITERS</a></li>
+							<li><a href="placement.php#tab6">Training and Placement</a></li>
+							<li><a href="placement.php#tab1">Placement Records</a></li>
+							
+						</ul>
+				</li>
 					<li><a class="<?php echo $currentPage ==='faculty.php'?'active':'';?>" href="faculty.php">Faculty</a></li>
-					<li><a class="<?php echo $currentPage ==='infrastructure.php'?'active':'';?>" href="infrastructure.php">Infrastructure</a></li>
-					<li><a class="<?php echo $currentPage ==='research.php'?'active':'';?>" href="research.php">Research</a></li>
-					<li><a class="<?php echo $currentPage ==='accolades.php'?'active':'';?>" href="accolades.php">Accolades</a></li>
-					<li><a class="<?php echo $currentPage ==='activities.php'?'active':'';?>" href="activities.php">Activities</a></li>
-					<li><a class="<?php echo $currentPage ==='admission.php'?'active':'';?>" href="admission.php">Admission</a>
-					</li>
-					<li class="mob_menu"><a href="https://admissions.kmch.ac.in/" target="_blank" >Apply Online</a></li>
-					<li class="mob_menu"><a href="https://formbuilder.ccavenue.com/live/ccavenue/kmch/kmch-college-of-pharmacy" target="_blank">Student Fee Payment</a></li>
-					<li class="mob_menu"><a href="http://kmch.ac.in/hostel.php" target="_blank">Hostel</a></li>
-					<li class="mob_menu"><a href="http://backbone.kmch.ac.in/" target="_blank">Staff Login</a></li>
-					<li><a class="<?php echo $currentPage ==='contact.php'?'active':'';?>" href="contact.php">Contact</a></li>
-					<li class="mob_menu"><a href="student-circular.php">Student Circular</a></li>
-					<li class="mob_menu"><a href="alumni.php">Alumni</a></li>
-					<li class="mob_menu"><a href="committee.php">Committee</a></li>
-					<li class="mob_menu"><a href="placement.php">Placement Cell</a></li>
-					<li class="mob_menu"><a href="newsletter.php">Newsletter & Magazine</a></li>
-					<li class="mob_menu"><a href="accreditation-kmcop.php">Accreditation KMCOP</a></li>
-					<li class="mob_menu"><a href="https://forms.gle/PpoNUysSPjbG8FHR7" target="_blank">Student Satisfaction Survey</a></li>
-					<li class="mob_menu"><a href="https://forms.gle/hktLtHU1a2DBkgXU7" target="_blank">Parents Feedback Form</a></li>
-				</ul>
+					<li class="has-sub"><a class="<?php echo $currentPage ==='alumni.php'?'active':'';?>" href="alumni.php">Alumni</a>
+					<ul>
+							<li><a href="alumni.php#tab0">Alumni Registration</a></li>
+							<li><a href="alumni.php#tab1">Alumni Association Members</a></li>
+							
+						</ul>
+				</li>
+					<li><a class="<?php echo $currentPage ==='contact.php'?'active':'';?>" href="contact.php">Contact Us</a></li>
+					
+					
+					<li><a class="<?php echo $currentPage ==='pci.php'?'active':'';?>" href="pci.php">PCI</a></li>
+					
+					<li><a class="" href="https://www.vmedulife.com/institute/e-grievance/home/sip-hyderabad">E-Grievance Portal</a></li>
+					
+					
+			</ul>
 			</div>
 		</div>
 	</header>
@@ -67,4 +106,6 @@ echo "";
     <script>
         // Output the current page to the console
         console.log("Current Page:", "<?php echo $currentPage; ?>");
+
+		
     </script>

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KMCH College of Pharmacy</title>
+	<title>SITS PHARMA College of Pharmacy</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -116,7 +116,7 @@ z-index: 999 !important;
 }
     </style>
 <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 	
 <!--<div class="whatsapp">
@@ -127,7 +127,7 @@ z-index: 999 !important;
 </head>
 
 <body class="innerPage">
-<script type="text/javascript"> var npf_d='https://admissions.kmch.ac.in'; var npf_c='5143'; var
+<script type="text/javascript"> var npf_d='https://admissions.SITS PHARMA.ac.in'; var npf_c='5143'; var
 npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true;
 s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
 	<div id="fb-root"></div>
@@ -138,8 +138,8 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 	
 <section>
 	<div class="page_banner">
-		<img src="images/page_banner/activities.jpg" alt="KMCH Activity" class="dt_img">
-		<img src="images/page_banner/mobile/activities.jpg" alt="KMCH Activity" class="mob_img">
+		<img src="images/page_banner/activities.jpg" alt="SITS PHARMA Activity" class="dt_img">
+		<img src="images/page_banner/mobile/activities.jpg" alt="SITS PHARMA Activity" class="mob_img">
 		<div class="content1 right">
 			<h1>It always seems impossible untill it is done</h1>
 		</div>
@@ -1156,7 +1156,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 													<p>Dr. Ganesh &nbsp;</p>
 													</td>
 													<td>
-													<p>Epidemiologist KMCH Hospital</p>
+													<p>Epidemiologist SITS PHARMA Hospital</p>
 													</td>
 													<td>
 													<p>Recent Global Epidemics &ndash; A threat</p>
@@ -1222,7 +1222,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 													<p>Mr. K.Chandrasekaran,</p>
 													</td>
 													<td>
-													<p>IP Pharmacy, KMCH</p>
+													<p>IP Pharmacy, SITS PHARMA</p>
 													</td>
 													<td>
 													<p>Planning and implementation of clinical services in a private corporation</p>
@@ -1691,8 +1691,8 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                		<div class="col-md-12">
 						                			<h4>Industrial Training</h4>
 						                			<span class="wrap_image_sec right">
-						                				<!-- <img src="images/activities/co-curricular.jpg" alt="KMCH" class="mb-3 mb-sm-3">	 -->
-						                				<img src="images/activities/co-curricular1.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+						                				<!-- <img src="images/activities/co-curricular.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	 -->
+						                				<img src="images/activities/co-curricular1.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 						                			</span>
 						                			<p>Final and prefinal B.Pharm Students underwent Industrial Training at </p>
 								                	<ul class="ul_style">
@@ -1718,13 +1718,13 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<div class="clear">
 							                			<span class="wrap_image_sec right">
-							                				<img src="images/activities/extension/swachh-bharat.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+							                				<img src="images/activities/extension/swachh-bharat.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 							                			</span>
 							                			<h4>Swachh Bharat Summer Internship Program</h4>
 								                		<p>It is the campaign launched by The Prime minister Shri.Narendra Modi as a nationwide cleanliness campaign. It was implemented to fulfill vision and mission of clean India a day. It was launched especially on the birth anniversary of the Mahatma Gandhi as he was dreamed and very keen to make this country clean. He had tried for Clean India in this time by motivating people through his campaign and slogan however could not be true because of the partial involvement of the people of India. It was started in 2014 on the 2nd of October on the 145th birth anniversary of Mahatma Gandhi. The major Goal of Swachh Bharat is to eradicate open defecation by end of October 2nd 2019.</p> 
 								                		<p><b>Nodal Officers: Dr.A.Rajasekaran & Dr.R.Arivukkarasu</b></p>
 							                		</div>
-							                		<div>Report on Swachhta Pakhwada activities conducted by NSS (SFU) unit of KMCH College of Pharmacy </div>
+							                		<div>Report on Swachhta Pakhwada activities conducted by NSS (SFU) unit of SITS PHARMA College of Pharmacy </div>
 							                		<div class="table-responsive">
 							                			<table class="table table_style1 table-bordered">
 							                				<tbody>
@@ -1754,7 +1754,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>&nbsp;</p>
 															</td>
 															<td>
-															<p>Conference Hall-KMCH College of pharmacy</p>
+															<p>Conference Hall-SITS PHARMA College of pharmacy</p>
 															</td>
 															</tr>
 															<tr>
@@ -1769,7 +1769,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Cleaning of college campus</p>
 															</td>
 															<td>
-															<p>KMCH College of pharmacy</p>
+															<p>SITS PHARMA College of pharmacy</p>
 															</td>
 															</tr>
 															<tr>
@@ -1840,7 +1840,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Activity concluded</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy</p>
+															<p>SITS PHARMA College of Pharmacy</p>
 															</td>
 															</tr>
 															</tbody>
@@ -1855,7 +1855,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<div class="row">
 							                	<div class="col-md-12">
 							                		<span class="wrap_image_sec right">
-						                				<img src="images/activities/extension/nss.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+						                				<img src="images/activities/extension/nss.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 						                			</span>
 						                			<h4 class="mt-2">NSS (SFU)</h4>
 							                		<p>The National Service Scheme (NSS) is an Indian government-sponsored public service program conducted by the Ministry of Youth Affairs and Sports of the Government of India. The scheme was launched in Gandhiji's Centenary year, 1969. Aimed at developing student's personality through community service, NSS is a voluntary association of young people in Colleges, Universities and at +2 level working for a campus--community linkage.</p>
@@ -2516,10 +2516,10 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<div class="clear">
 							                			<span class="wrap_image_sec right">
-							                				<img src="images/activities/extension/yrc.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+							                				<img src="images/activities/extension/yrc.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 							                			</span>
 							                			<h4 class="mt-2">Youth Red Cross</h4>
-								                		<p>The youth red cross society of KMCH College of Pharmacy was established in the year of 2008.The members were involved in various activities like promotion of health and hygiene, service to others, Eradication of social evils such as Drug De-addiction, HIV/AIDS awareness, Promotion of Voluntary Blood Donation etc. in the past years.</p>
+								                		<p>The youth red cross society of SITS PHARMA College of Pharmacy was established in the year of 2008.The members were involved in various activities like promotion of health and hygiene, service to others, Eradication of social evils such as Drug De-addiction, HIV/AIDS awareness, Promotion of Voluntary Blood Donation etc. in the past years.</p>
 							                		</div>
 							                		<h5>YRC Activity</h5>
 							                		<div class="table-responsive">
@@ -2550,7 +2550,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>National Youth day( health care camp)</p>
 															</td>
 															<td>
-															<p>Kalapatti road, In front of KMCH College of Pharmacy, Coimbatore.</p>
+															<p>Kalapatti road, In front of SITS PHARMA College of Pharmacy, Coimbatore.</p>
 															</td>
 															</tr>
 															<tr>
@@ -2564,7 +2564,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>One day national seminar on Emerging and Re-emerging Edes-Borne Diseases Zika and Dengue-an Update</p>
 															</td>
 															<td>
-															<p>KMCH Hospital, Coimbatore.</p>
+															<p>SITS PHARMA Hospital, Coimbatore.</p>
 															</td>
 															</tr>
 															<tr>
@@ -2578,7 +2578,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Demonstration program about the fire safety and rescue services.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore.</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore.</p>
 															</td>
 															</tr>
 															<tr>
@@ -2592,7 +2592,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p><strong>Independence Day Celebration(</strong>Essay writing ,Elocution, Painting and Slogan writing competition)</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore.</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore.</p>
 															</td>
 															</tr>
 															<tr>
@@ -2606,7 +2606,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Breast cancer awareness camp.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy with KMCH Hospital, Coimbatore.</p>
+															<p>SITS PHARMA College of Pharmacy with SITS PHARMA Hospital, Coimbatore.</p>
 															</td>
 															</tr>
 															<tr>
@@ -2620,7 +2620,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>One day workshop on disaster management program.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2634,7 +2634,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Road Safety Awareness Programme by Safety training officer, Mr. &nbsp;K.Vinakaya Moorthy<br /> </p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2648,7 +2648,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>One day national level seminar on emerging and re-emerging zoonotic viral disease-NIPAH: current scenario</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2677,7 +2677,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Awareness program about positive approach with HIV positive patients.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															</tbody>
@@ -2693,7 +2693,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<h4 class="mt-2">Red Ribbon Club</h4>
 							                		<span class="wrap_image_sec right">
-						                				<img src="images/activities/extension/rrc.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+						                				<img src="images/activities/extension/rrc.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 						                			</span>
 							                		<p>Red Ribbon Club is a movement started by the Government of India in schools and colleges through which, students will spread awareness on HIV / AIDS, aimed to heightening the risk perception and preventing HIV among youth. It visualize to implant charity mind among all the students to expand their capable help towards mounting healthy life styles, donating blood to all  in need by promotion of Regular voluntary blood donation. It empowers students in the age group of 17-25, by giving them information and life-skills to protect themselves from HIV/AIDS and changing the most active among them into peer educators.</p>
 							                		<p><b>Objective</b></p>
@@ -2732,7 +2732,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>National Youth day(Awareness programm on positive approach with HIV positive patients)</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2762,7 +2762,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<h4 class="mt-2">Yoga</h4>
 							                		<span class="wrap_image_sec right">
-						                				<img src="images/activities/extension/yoga.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+						                				<img src="images/activities/extension/yoga.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 						                			</span>
 							                		<p>Extensive research has found that yoga reduces stress, anxiety results in more inner piece, creativity, health success and happiness.</p>
 													<p>This one simple technique allow us to go beyond thinking and contact the deep transitional source of all our energy, creativity and intelligence, dissolving stress, enriching mind, body, emotions and relationship.</p>
@@ -2805,7 +2805,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Day of Yoga was celebrated by yoga trainers from ISHA foundation.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2819,7 +2819,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Day of Yoga was celebrated by yoga trainers from ISHA foundation.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2833,7 +2833,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Day of Yoga was celebrated and different yoga postures with Pranayama and meditation are explained by yoga instructor Mr. K.Subramanian.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2847,7 +2847,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Day of Yoga was celebrated with the theme of "Yoga for Harmony and Peace." Different Pranayama and meditation are explained by yoga instructor Mr. K.Subramanian.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2861,7 +2861,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Day of Yoga was celebrated and different yoga postures with Pranayama and meditation are explained by yoga instructor Mr. K.Subramanian and quiz competition was conducted by Dr.K.Selvaraju regarding yoga.</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															</tbody>
@@ -2877,9 +2877,9 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<h4 class="mt-2">Health and science club</h4>
 							                		<span class="wrap_image_sec right">
-						                				<img src="images/activities/extension/hsc.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+						                				<img src="images/activities/extension/hsc.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 						                			</span>
-							                		<p>Health and science club was formed by the KMCH College of Pharmacy with an objective of providing knowledge and information to the students and the society on various health needs. The club was formed with innovative ideas and plans to utilize and express the students’ knowledge into practice and thereby enhancing positive attitude to society’s health care needs.</p>
+							                		<p>Health and science club was formed by the SITS PHARMA College of Pharmacy with an objective of providing knowledge and information to the students and the society on various health needs. The club was formed with innovative ideas and plans to utilize and express the students’ knowledge into practice and thereby enhancing positive attitude to society’s health care needs.</p>
 							                		<p>The club was inaugurated on 28th February 2020, by Dr. A Rajasekaran. The club is managed by the committee of students from D.Pharm, B.Pharm and Pharm.D programs. </p>
 							                		<div class="table-responsive">
 							                			<table class="table table_style1 table-bordered">
@@ -2909,7 +2909,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>World Cancer Day Awareness Programme<strong>(</strong>Quiz programme, Poster presentation)</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -2924,7 +2924,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>&nbsp;</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															</tbody>
@@ -2940,7 +2940,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<h4 class="mt-2">Women Development Cell (WDC)</h4>
 							                		<span class="wrap_image_sec right">
-						                				<img src="images/activities/extension/wdc.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+						                				<img src="images/activities/extension/wdc.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 						                			</span>
 							                		<p>A Women Development Cell (WDC) provides a platform where the students can comfortably participate and share their views with the active participation in promoting the gender equality. It symbolizes a safety hub for the students with the sign of progression and open thinking.</p>
 							                		<p>WDC will look after the welfare of the women faculty and students. It functions through pertaining women sexual harassment by safeguarding the rights of female students, faculty and staff members and also ensures the personality along with the academic developments of students. </p>
@@ -2982,7 +2982,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Women&rsquo;s Day 2015-Quiz and Elocution competition</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -3040,7 +3040,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Women&rsquo;s Day 2016- (Throw ball, Chess, Carrom, Poster Making, Essay writing, Pencil sketching)</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -3054,7 +3054,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Webinar on &ldquo;How to maintain emotional health&rdquo; by Indian women network, Confederation of Indian Industry, Chennai</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -3125,7 +3125,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Women&rsquo;s Day 2018, Essay writing, Elocution, PowerPoint Presentation, Quiz</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -3155,7 +3155,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Women's Day 2019, Essay Writing, Carrom, Chess, Cooking without fire, Gold from garbage</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -3170,7 +3170,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>Two Days National level seminar on "Participation of women in science &amp; technology - A vision on challenge &amp; prospects sponsored by National Commission for Women, New Delhi"</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															<tr>
@@ -3184,7 +3184,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 															<p>International Women's Day 2020, Essay Writing, Chess, Role-play, Cooking without fire, Gold from garbage</p>
 															</td>
 															<td>
-															<p>KMCH College of Pharmacy, Coimbatore</p>
+															<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 															</td>
 															</tr>
 															</tbody>
@@ -3200,10 +3200,10 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 							                	<div class="col-md-12">
 							                		<h5>Swachhta Pledge Taking Ceremony</h5>
 							                		<span class="wrap_image_sec right">
-						                				<img src="images/temp.jpg" alt="KMCH" class="mb-3 mb-sm-3" style="width: 600px;height: 270px;">	
+						                				<img src="images/temp.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3" style="width: 600px;height: 270px;">	
 						                			</span>
 							                		<p>The Prime Minister of India, Shri Narendra Modi, launched the Swachh Bharat Mission on 2nd October, 2014. This mission was launched to have clean India and to pay the tribute to Mahatma Gandhi. As part of this abhiyan, "The Swachhta Pledge Taking Ceremony" was organized in our college campus on 15-11-2016 at our conference Hall.</p>
-													<p>Dr. A.Rajasekaran, Principal, KMCH College of Pharmacy gave the overview of the Swachhta mission and also emphasized the importance of maintaining cleanliness in and around the surrounding environment where we live starting from the classroom, hostels etc. He also delivered the Swachhta Pledge. Faculty members and students took the pledge to remain committed towards cleanliness.</p>
+													<p>Dr. A.Rajasekaran, Principal, SITS PHARMA College of Pharmacy gave the overview of the Swachhta mission and also emphasized the importance of maintaining cleanliness in and around the surrounding environment where we live starting from the classroom, hostels etc. He also delivered the Swachhta Pledge. Faculty members and students took the pledge to remain committed towards cleanliness.</p>
 							                	</div>
 						                	</div>	 -->					                	
 						                </div>
@@ -3211,7 +3211,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<h4>Cell Culture</h4>
 						                	<div class="clear">
 						                		<!-- <span class="wrap_image_sec right">
-							                		<img src="images/temp.jpg" alt="KMCH" class="mb-3 mb-sm-3" 
+							                		<img src="images/temp.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3" 
 							                			style="width: 400px; height: 310px;">
 							                	</span> -->
 							                	<p>Continuous cell lines and primary cells are maintained for in vitro screening of both natural and synthetic compounds for various pharmacological activities.</p>
@@ -3230,7 +3230,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	
 						                	<div class="clear">
 						                		<!-- <span class="wrap_image_sec">
-							                		<img src="images/temp.jpg" alt="KMCH" class="mb-3 mb-sm-3" 
+							                		<img src="images/temp.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3" 
 							                			style="width: 400px; height: 310px;">
 							                	</span> -->
 							                	<h4>Pharmaceutical Analysis</h4>
@@ -3248,7 +3248,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<h4>Pharmaceutics</h4>
 						                	<div class="clear">
 						                		<!-- <span class="wrap_image_sec right">
-							                		<img src="images/temp.jpg" alt="KMCH" class="mb-3 mb-sm-3" 
+							                		<img src="images/temp.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3" 
 							                			style="width: 400px; height: 310px;">
 							                	</span> -->
 							                	<p>We also offer various consultancy services to Academic and Industry in development oral dosage forms. We had also assisted M/S SKM Organic Farms, Erode in development of oral dosage forms from ayurvedic resources. We also perform various formulation processes for academic students and for ayurvedic consultants.</p>
@@ -3271,7 +3271,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	
 						                	<div class="clear">
 						                		<!-- <span class="wrap_image_sec">
-							                		<img src="images/temp.jpg" alt="KMCH" class="mb-3 mb-sm-3" 
+							                		<img src="images/temp.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3" 
 							                			style="width: 400px; height: 310px;">
 							                	</span> -->
 							                	<h4>Pharmacognosy</h4>
@@ -3287,7 +3287,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<h4>Pharmacology</h4>
 						                	<div class="clear">
 						                		<!-- <span class="wrap_image_sec right">
-							                		<img src="images/temp.jpg" alt="KMCH" class="mb-3 mb-sm-3" 
+							                		<img src="images/temp.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3" 
 							                			style="width: 400px; height: 310px;">
 							                	</span> -->
 							                	<p>The following consultancy services are offered in the department of Pharmacology for Preclinical In vivo Pharmacology studies using various animal models.</p>
@@ -3308,7 +3308,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	
 											<div class="clear">
 							                			<span class="wrap_image_sec right">
-							                				<img src="images/activities/extension/iic.jpg" alt="KMCH" class="mb-3 mb-sm-3">	
+							                				<img src="images/activities/extension/iic.jpg" alt="SITS PHARMA" class="mb-3 mb-sm-3">	
 							                			</span>
 														<h4>IIC Activities</h4>
 								                		<p>The Institutional Innovation Council establishes a framework that fosters and supports creative ideas in order to sustain high-quality drug discovery research for societal benefit. It affirms a system that enables students and faculty to innovate and prototype their ideas 
@@ -3347,7 +3347,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. J. Padmapreetha</p>
 <p>Assistant Professor</p>
-<p>KMCH College of Pharmacy, Coimbatore.</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -3363,7 +3363,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R. Arivukkarasu</p>
 <p>Professor</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3379,7 +3379,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. V. Iswar Raja Pharm D.,</p>
 <p>Lecturer, Dept of Pharm Practice</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -3524,7 +3524,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>IIC Convenor &amp; Innovation Ambassadors</p>
 <p>Dr. R. Arivukkarasu</p>
 <p>Innovation Ambassadors</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -3540,7 +3540,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. I. Ponnilavaran</p>
 <p>Professors</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3555,7 +3555,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>Innovation Ambassadors</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3605,7 +3605,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Dr. G. Venkatesh</p>
 <p>Dr. R. Arivukkarasu</p>
 <p>Mr. Shanmuganathan</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3621,7 +3621,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>All innovation Ambassador</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3638,7 +3638,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Dr. R. Dinesh kumar</p>
 <p>Mr. R. Kavitha</p>
 <p>Assistant Professors</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3654,7 +3654,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. G. Venkatesh</p>
 <p>IIC Convenor</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -3670,7 +3670,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. I. Ponnilavarasan</p>
 <p>Professor</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3708,7 +3708,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Dr. R. Arivukkarasu</p>
 <p>Dr. A. Rajasekaran</p>
 <p>Innovation Ambassador</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3723,7 +3723,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>Dr.C.Sankar, Professor</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3738,7 +3738,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>N. Adhirajan, Professors</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3818,7 +3818,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>Dr. Eswar, Assistant, Professor,</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3835,7 +3835,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Dr. VS. Thiruvengada Rajan</p>
 <p>Professor,</p>
 <p>Dept of Pharm Analysis</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3851,7 +3851,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R.Gayathiri, Professor,</p>
 <p>Dept of Pharmaceutics</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3898,7 +3898,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>All innovation Ambassador</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3914,7 +3914,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R. Arivukkarasu , Professor,</p>
 <p>Dept of Pharmacognosy</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3930,7 +3930,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>Innovation Ambassadors</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -3995,7 +3995,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Dr. Dinesh Kumar</p>
 <p>Dr. Iswar Raja</p>
 <p>Dr. Maga Mohan</p>
-<p>KMCH COP, Coimbatore- 48</p>
+<p>SITS PHARMA COP, Coimbatore- 48</p>
 </td>
 </tr>
 <tr>
@@ -4010,7 +4010,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>Mr. Ashwak Jaffer</p>
-<p>Pharm D , KMCH college of Pharmacy, Coimbatore</p>
+<p>Pharm D , SITS PHARMA college of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -4025,7 +4025,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>All Faculties</p>
-<p>KMCH college of pharmacy, Coimbatore- 48</p>
+<p>SITS PHARMA college of pharmacy, Coimbatore- 48</p>
 </td>
 </tr>
 <tr>
@@ -4138,7 +4138,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. M. Karthick Pharm D</p>
 <p>Neurology Department</p>
-<p>KMCH Hospital, Coimbatore- 48</p>
+<p>SITS PHARMA Hospital, Coimbatore- 48</p>
 </td>
 </tr>
 <tr>
@@ -4185,7 +4185,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. Gokulapriya</p>
 <p>Nephrology Department</p>
-<p>KMCH Hospital, Coimbatore- 48</p>
+<p>SITS PHARMA Hospital, Coimbatore- 48</p>
 </td>
 </tr>
 <tr>
@@ -4200,7 +4200,7 @@ development organizations in hopes of transforming their business ideas into rea
 </td>
 <td >
 <p>Dr N Adhirajan, Professor</p>
-<p>KMCH college of pharmacy, Coimbatore- 48</p>
+<p>SITS PHARMA college of pharmacy, Coimbatore- 48</p>
 </td>
 </tr>													
 <tr>
@@ -4231,7 +4231,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. J. Padma Preetha</p>
 <p>IIC Ambassador</p>
-<p>KMCH College of pharmacy</p>
+<p>SITS PHARMA College of pharmacy</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -4283,7 +4283,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. VS. Thiruvengada Rajan PhD</p>
 <p>Professor, Dept of Pharm Analysis</p>
-<p>KMCH College of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -4299,7 +4299,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. G. Venkatesh M. Pharm., Ph.D.,</p>
 <p>IIC Convenor</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -4315,7 +4315,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr.R.Arivukkarasu M.Pharm., Ph.D.,</p>
 <p>Innovation Ambassador</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -4332,7 +4332,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. G. Venkatesh M. Pharm., Ph.D.,</p>
 <p>IIC Convenor</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -4348,7 +4348,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. J. Padma Preetha</p>
 <p>IIC Ambassador</p>
-<p>KMCH College of pharmacy</p>
+<p>SITS PHARMA College of pharmacy</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -4398,7 +4398,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr.R.Arivukkarasu M.Pharm.,Ph.D.,</p>
 <p>Innovation Ambassador</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -4415,7 +4415,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. G. Venkatesh M. Pharm., Ph.D.,</p>
 <p>IIC Convenor</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 													<tr>
@@ -4655,7 +4655,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. Gayathri</p>
 <p>Professor</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -4672,7 +4672,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. Arivukkarasu</p>
 <p>Innovation Ambassador</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -4754,7 +4754,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Mr. I. Ponnilavaran</p>
 <p>Dr. R. Arivukkarasu</p>
 <p>Innovation Ambassador</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -4864,7 +4864,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Associate Professor</p>
 <p>Dr. C. Sankar</p>
 <p>Professor &amp; Head</p>
-<p>KMCH College of Pharmacy</p>
+<p>SITS PHARMA College of Pharmacy</p>
 </td>
 </tr>
 <tr>
@@ -4993,7 +4993,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Entrepreneurship &amp; start up</p>
 </td>
 <td >
-<p>Students &amp; Faculties of KMCH College of Pharmacy, Coimbatore.</p>
+<p>Students &amp; Faculties of SITS PHARMA College of Pharmacy, Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5058,7 +5058,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. A. Rajasekaran</p>
 <p>Principal &amp; Professor&nbsp;</p>
-<p>KMCH College of Pharmacy, Coimbatore.</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5107,7 +5107,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R. Srinithi Nithyananth</p>
 <p>Psychiatry</p>
-<p>KMCH Hospital</p>
+<p>SITS PHARMA Hospital</p>
 <p>Coimbatore</p>
 </td>
 </tr>
@@ -5210,7 +5210,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. A. Rajasekaran</p>
 <p>Principal &amp; Professor&nbsp;</p>
-<p>KMCH College of Pharmacy, Coimbatore.</p>
+<p>SITS PHARMA College of Pharmacy, Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5277,7 +5277,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R. Arivukkarasu</p>
 <p>Associate professor</p>
-<p>KMCH college of Pharmacy, Coimbatore.</p>
+<p>SITS PHARMA college of Pharmacy, Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5333,7 +5333,7 @@ development organizations in hopes of transforming their business ideas into rea
 <p>Mr. A. Gowtham &amp;</p>
 <p>Mr. M. Prakash</p>
 <p>Research Students</p>
-<p>KMCH college of Pharmacy, Coimbatore</p>
+<p>SITS PHARMA college of Pharmacy, Coimbatore</p>
 </td>
 </tr>
 <tr>
@@ -5382,7 +5382,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. S. Shalini Sivadasan</p>
 <p>Professor</p>
-<p>KMCH college of Pharmacy, Coimbatore.</p>
+<p>SITS PHARMA college of Pharmacy, Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5398,7 +5398,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. B. Sugithra</p>
 <p>Assistant Professor</p>
-<p>KMCH College of Pharmacy Coimbatore.</p>
+<p>SITS PHARMA College of Pharmacy Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5414,7 +5414,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. G. Venkatesh</p>
 <p>Associate Professor</p>
-<p>KMCH College of Pharmacy Coimbatore.</p>
+<p>SITS PHARMA College of Pharmacy Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5447,7 +5447,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R. Gayathri</p>
 <p>Professor</p>
-<p>KMCH College of Pharmacy Coimbatore.</p>
+<p>SITS PHARMA College of Pharmacy Coimbatore.</p>
 </td>
 </tr>
 <tr>
@@ -5463,7 +5463,7 @@ development organizations in hopes of transforming their business ideas into rea
 <td >
 <p>Dr. R. Arivukkarasu</p>
 <p>Associate Professor</p>
-<p>KMCH College of Pharmacy Coimbatore</p>
+<p>SITS PHARMA College of Pharmacy Coimbatore</p>
 </td>
 </tr>
 <tr>

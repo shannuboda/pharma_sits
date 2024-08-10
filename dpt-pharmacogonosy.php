@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KMCH College of Pharmacy</title>
+	<title>SITS PHARMA College of Pharmacy</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -116,7 +116,7 @@ z-index: 999 !important;
 }
     </style>
 <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 	
 <!--<div class="whatsapp">
@@ -127,7 +127,7 @@ z-index: 999 !important;
 </head>
 
 <body class="innerPage">
-<script type="text/javascript"> var npf_d='https://admissions.kmch.ac.in'; var npf_c='5143'; var
+<script type="text/javascript"> var npf_d='https://admissions.SITS PHARMA.ac.in'; var npf_c='5143'; var
 npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true;
 s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
 	<div id="fb-root"></div>
@@ -138,8 +138,8 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 
 <section>
 	<div class="page_banner">
-		<img src="images/page_banner/drugs_medicine.jpg" alt="About KMCH Pharmacy" class="dt_img">
-		<img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About KMCH Pharmacy" class="mob_img">
+		<img src="images/page_banner/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="dt_img">
+		<img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="mob_img">
 		<div class="content1 right">
 			<h1>Leading through innovation</h1>
 		</div>
@@ -180,10 +180,10 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<h4>About Department</h4>
 						                	<div class="clear">
 						                		<span class="wrap_image_sec right">
-							                		<img src="images/academics/departments/pharmacognosy.jpg" alt="KMCH" class="w-100">
+							                		<img src="images/academics/departments/pharmacognosy.jpg" alt="SITS PHARMA" class="w-100">
 							                	</span>
 							                	<p>	Pharmacognosy is an applied science that involves the study of physical, chemical, biochemical and biological properties of natural drugs including the search for new drugs and its standardization. It is a vital link between Ayurvedic and Allopathic system of medicine and one of the core subjects in the entire pharmacy curriculum like, D.Pharm, B.Pharm and Pharm D program.</p>
-												<p>The Department of Pharmacognosy is actively imparting the profound knowledge of Pharmacognosy and herbal drug technologies to the students of KMCH College of Pharmacy. </p>
+												<p>The Department of Pharmacognosy is actively imparting the profound knowledge of Pharmacognosy and herbal drug technologies to the students of SITS PHARMA College of Pharmacy. </p>
 												<p>A separate museum with more than 200 specimens of crude drugs, herbal charts, herbarium collections and marketed herbal formulations including Siddha and Ayurvedic formulations are maintained to impart traditional knowledge to the students. Further to make aware of the students to common traditional herbs, a separate medicinal plant garden is maintained with around 200 medicinal plants with name board displaying botanical name, active constituents and uses. Students are involved and encouraged to maintain the garden to make them familiar with the medicinal herbs.</p>
 						                	</div>
 						                	
@@ -207,7 +207,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                		</div>
 						                		<div class="col-md-5">
 						                			<span class="wrap_image_sec mr-0">
-						                				<img src="images/academics/departments/pharmacognosy-fa/facility.jpg" alt="KMCH" class="w-100">
+						                				<img src="images/academics/departments/pharmacognosy-fa/facility.jpg" alt="SITS PHARMA" class="w-100">
 						                			</span>
 						                		</div>
 						                	</div>
@@ -215,7 +215,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<div class="row">
 						                		<div class="col-md-5">
 						                			<span class="wrap_image_sec mr-0">
-						                				<img src="images/academics/departments/pharmacognosy-fa/activity.jpg" alt="KMCH" class="w-100">
+						                				<img src="images/academics/departments/pharmacognosy-fa/activity.jpg" alt="SITS PHARMA" class="w-100">
 						                			</span>
 						                		</div>
 						                		<div class="col-md-7">
@@ -236,7 +236,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                		<div class="row">
 						                			<div class="cols">
 						                				<a href="pdf/faculty/pharmacogonosy/dr_adhirajan_n.pdf" target="_blank" class="item">
-						                					<img src="images/faculty/pharmacogonosy/adhirajan.jpg" alt="KMCH Staff">
+						                					<img src="images/faculty/pharmacogonosy/adhirajan.jpg" alt="SITS PHARMA Staff">
 						                					<div class="bottom">
 						                						<h5>Dr. Adhirajan N</h5>
 						                						<span>Professor - HOD</span>
@@ -246,7 +246,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                			</div>
 						                			<div class="cols">
 						                				<a href="pdf/faculty/pharmacogonosy/dr_arivukkarasu_r.pdf" target="_blank" class="item">
-						                					<img src="images/faculty/pharmacogonosy/arivukkarasu.jpg" alt="KMCH Staff">
+						                					<img src="images/faculty/pharmacogonosy/arivukkarasu.jpg" alt="SITS PHARMA Staff">
 						                					<div class="bottom">
 						                						<h5>Dr. Arivukkarasu R</h5>
 						                						<span>Assoc. Prof.</span>
@@ -256,7 +256,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                			</div>
 						                			<div class="cols">
 						                				<a href="pdf/faculty/pharmacogonosy/mrs_sujithra_b.pdf" target="_blank" class="item">
-						                					<img src="images/faculty/pharmacogonosy/sugirtha.jpg" alt="KMCH Staff">
+						                					<img src="images/faculty/pharmacogonosy/sugirtha.jpg" alt="SITS PHARMA Staff">
 						                					<div class="bottom">
 						                						<h5>Mrs. Sujithra B</h5>
 						                						<span>Asst. Prof.</span>
@@ -266,7 +266,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                			</div>
 													<div class="cols">
 			                				<a href="pdf/faculty/pharmacogonosy/jinisha_mohan.pdf" target="_blank" class="item">
-			                					<img src="images/faculty/pharmacogonosy/jinisha_mohan.jpg" alt="KMCH Staff">
+			                					<img src="images/faculty/pharmacogonosy/jinisha_mohan.jpg" alt="SITS PHARMA Staff">
 			                					<div class="bottom">
 			                						<h5>Ms.U.Jinisha Mohan</h5>
 			                						<span>Lecturer</span>

@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>KMCH College of Pharmacy</title>
+    <title>SITS PHARMA College of Pharmacy</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -161,7 +161,7 @@
     }
     </style>
     <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 
     <!--<div class="whatsapp">
@@ -173,7 +173,7 @@
 
 <body class="innerPage">
     <script type="text/javascript">
-    var npf_d = 'https://admissions.kmch.ac.in';
+    var npf_d = 'https://admissions.SITS PHARMA.ac.in';
     var npf_c = '5143';
     var
         npf_m = '1';
@@ -267,7 +267,7 @@
 
                                                 <div class="row">
                                                     <span class="wrap_image_sec d-flex mr-auto ml-auto">
-                                                        <img src="./images/about/sr-1.jpg" alt="KMCH Chairman"
+                                                        <img src="./images/about/sr-1.jpg" alt="SITS PHARMA Chairman"
                                                             class="sub_banner">
 
                                                     </span>
@@ -278,7 +278,7 @@
 
                                                 <div class="row">
                                                     <span class="wrap_image_sec d-flex mr-auto ml-auto">
-                                                        <img src="./images/about/sr-2.jpg" alt="KMCH Chairman"
+                                                        <img src="./images/about/sr-2.jpg" alt="SITS PHARMA Chairman"
                                                             class="sub_banner">
 
                                                     </span>
@@ -289,7 +289,7 @@
 
                                                 <div class="row">
                                                     <span class="wrap_image_sec d-flex mr-auto ml-auto">
-                                                        <img src="./images/about/sr-3.jpg" alt="KMCH Chairman"
+                                                        <img src="./images/about/sr-3.jpg" alt="SITS PHARMA Chairman"
                                                             class="sub_banner">
 
                                                     </span>
@@ -302,16 +302,16 @@
                                                 <div class="row">
                                                     <div class="col-md-12 text-justify">
                                                         <span class="wrap_image_sec right">
-                                                            <img src="images/about/about_kmch.jpg" align="KMCH">
+                                                            <img src="images/about/about_SITS PHARMA.jpg" align="SITS PHARMA">
                                                         </span>
-                                                        <p>The KMCH College of Pharmacy, Coimbatore was established in
+                                                        <p>The SITS PHARMA College of Pharmacy, Coimbatore was established in
                                                             the year 1995 by the Dr NGP Research and Educational Trust
                                                             (Formerly Kovai Medical Center Research and Educational
                                                             Trust). It has been recognized by the Government of Tamil
                                                             Nadu, Pharmacy Council of India (PCI), New Delhi and
                                                             Affiliated to the Tamil Nadu Dr. M.G.R. Medical University,
                                                             Chennai.</p>
-                                                        <p>The KMCH College of Pharmacy is accredited by the National
+                                                        <p>The SITS PHARMA College of Pharmacy is accredited by the National
                                                             Board of Accreditation (NBA), New Delhi and ranked top 5
                                                             among the affiliated Pharmacy Colleges in the State of
                                                             National Institutional Ranking Frame Work (NIRF) ranking.
@@ -695,7 +695,7 @@
                                                 <h4>Chairman's Message</h4>
                                                 <span class="wrap_image_sec">
                                                     <img src="images/chairman2.jpg" alt="Dr.Rajsekaren">
-                                                    <h6>Prof. Sai Krushna Padhy</h6>
+                                                    <h6>Sri C. R. Jagadish</h6>
                                                 </span>
 
                                                 <p>I warmly welcome the aspiring pharmacy students to the fraternity of
@@ -906,9 +906,7 @@
         font-size: 14px;
     }
     </style>
-    <script type="text/javascript" src="https://d2jyl60qlhb39o.cloudfront.net/integration-plugin.js" id="wa-widget"
-        widget-id="MEwtb8">
-    </script>
+    
     <script src="js/custom.js"></script>
     <!--<button type="button" class="npfWidgetButton npfWidget-a347f84b7fa3ecd0635a90e3f5a6fec7 blinking">Admission Enquiry!</button><script src="https://in5cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa347f84b7fa3ecd0635a90e3f5a6fec7 = new NpfWidgetsInit({'widgetId': 'a347f84b7fa3ecd0635a90e3f5a6fec7','baseurl': 'widgets.in5.nopaperforms.com','formTitle': 'Admission Enquiry','titleColor': '#FF0033','backgroundColor': '#ddd','iframeHeight': '500px','buttonbgColor': '#ff0000','buttonTextColor': '#FFF',    });</script>-->
 
@@ -933,6 +931,52 @@
 	}
 	</style>
 	-->
+
+
+    <script>
+       document.addEventListener("DOMContentLoaded", function() {
+    function activateTabFromHash() {
+        // Get the hash from the URL
+        const hash = window.location.hash;
+
+        // Get all tab content elements
+        const tabs = document.getElementsByClassName("tab-pane");
+
+        // Get all nav links
+        const navLinks = document.querySelectorAll('.nav-link');
+
+        // Deactivate all tabs and nav links
+        for (let i = 0; i < tabs.length; i++) {
+            tabs[i].classList.remove("active");
+        }
+
+        navLinks.forEach(link => {
+            link.classList.remove('active');
+        });
+
+        // If there's a hash and it matches an element ID, activate that tab and corresponding nav link
+        if (hash) {
+            const activeTab = document.querySelector(hash);
+            const activeNavLink = document.querySelector(`a[href="${hash}"]`);
+
+            if (activeTab) {
+                activeTab.classList.add("active");
+            }
+
+            if (activeNavLink) {
+                activeNavLink.classList.add('active');
+            }
+        }
+    }
+
+    // Activate the tab on page load
+    activateTabFromHash();
+
+    // Activate the tab when the hash changes (if using anchor links to switch tabs)
+    window.addEventListener("hashchange", activateTabFromHash);
+});
+
+    </script>
 </body>
 
 </html>

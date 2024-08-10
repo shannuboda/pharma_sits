@@ -135,79 +135,76 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 
 	
 	<?php include('includes/header.php');?>
+
 <section>
 	<div class="page_banner">
-		<img src="images/page_banner/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="dt_img">
-		<img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="mob_img">
+		<img src="images/page_banner/admission.jpg" alt="About NGP Physiotherapy" class="dt_img">
+		<img src="images/page_banner/mobile/admission.jpg" alt="About NGP Physiotherapy" class="mob_img">
 		<div class="content1 right">
-			<h1>Leading through innovation</h1>
+			<h1>Planning for the future</p>
 		</div>
 	</div>
 </section>
 
 <section class="section_padd">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-12">
-				<section class="section_padding" id="tab_section">
-				    <div class="container">
-				          <div class="dept_sec">
+  <div class="container">
+  	<h2>Placement Cell</h2>
+  	<div class="content_area">
+      <p>The placement cell of SITS PHARMA college of Pharmacy collaborates with several pharma industries and hospitals to provide opportunities to the students of pharmacy for employment and has facilitated promising candidates in the field of health care and pharmaceutical industry.</p>
+      <p>The placement cell comprises of Dr.A.Rajasekaran and Dr.KSG Arulkumaran whom collate the student's data who are interested in placement for their career development. Almost 100% placement assistance is given to those candidates who are interested to pursue their career in pharmaceutical industry, hospital and academia. All the final year students of B.Pharmacy, M.Pharmacy and Pharm.D programs enroll in the placement activities.</p>
+      <p>About 88% of the candidates are employed in the leading pharma industries, hospitals and academia across the country opting for production, research and development, pharmacovigilance, pharmaceutical marketing, clinical pharmacy, community pharmacy, hospital pharmacy and teaching. About 12% of the students have opted for higher studies in the past year.</p>
 
-						          <h3 class="heading mt-0"><span>Departments</span></h3>
-						          <ul class="course_list">
-						            <li>
-						            	<a href="dpt-pharmaceutics.php">
-							            	<!-- <img src="images/departments/dpt-pharmaceutics.jpg" alt="Pharmaceutics"> -->
-							            	<img src="images/academics/departments/pharmaceutics.jpg" alt="pharmaceutics">
-							            	<span>Pharmaceutics</span>
-							            </a>
-						            </li>
-
-						            <li>
-						            	<a href="dpt-pharmaceutical-chemistry.php">
-							            	<!-- <img src="images/departments/dpt-pharmaceutical-chemistry.jpg" alt="Pharmaceutical Chemistry"> -->
-							            	<img src="images/academics/departments/pharmaceutical-chemistry.jpg" alt="pharmaceutical-chemistry">
-							            	<span>Pharmaceutical Chemistry</span>
-							            </a>
-						            </li>
-						            <li>
-						            	<a href="dpt-pharmacology.php">
-							            	<!-- <img src="images/departments/dpt-pharmacology.jpg" alt="Pharmacology"> -->
-							            	<img src="images/academics/departments/pharmacology.jpg" alt="pharmacology">
-							            	<span>Pharmacology</span>
-							            </a>
-						            </li>
-
-						            <li>
-						            	<a href="dpt-pharmacogonosy.php" title="Know more about Branches">
-						            		<!-- <img src="images/departments/dpt-pharmacogonosy.jpg" alt="Pharmacogonosy"> -->
-						            		<img src="images/academics/departments/pharmacognosy.jpg" alt="pharmacognosy">
-						            		<span>Pharmacogonosy</span>
-						            	</a>
-						            </li>
-						            <li>
-						            	<a href="dpt-pharmaceutical-analysis.php">
-						            		<!-- <img src="images/departments/dpt-pharmaceutical-analysis.jpg" alt="Pharmaceutical Analysis"> -->
-						            		<img src="images/academics/departments/pharmaceutical-analysis.jpg" alt="pharmaceutical-analysis">
-						            		<span>Pharmaceutical Analysis</span>
-						            	</a>
-						            </li>
-
-						            <li>
-						            	<a href="dpt-pharmacy-practice.php">
-							            	<!-- <img src="images/departments/dpt-pharmacy-practice.jpg" alt="Pharmacy Practice"> -->
-							            	<img src="images/academics/departments/pharmacy-practices.jpg" alt="pharmacy-practices">
-							            	<span>Pharmacy Practice</span>
-							            </a>
-							        </li>
-						          </ul>              
-
-				          </div>
-				    </div>
-				</section>
-			</div>
-		</div>
-	</div>
+      <h4>Major Recruiters</h4>
+      <p>The Following are the reputed companies which visited our college for requirement.</p>
+      <div class="row client_logo">
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/01.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/02.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/03.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/04.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/05.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/07.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/08.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/10.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/11.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/12.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/13.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/14.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/15.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/16.jpg">
+      	</div>
+      	<div class="col-6 col-sm-4 col-md-2">
+      		<img src="images/recruiters/all/17.jpg">
+      	</div>
+      </div>
+  	</div>
+  </div>  
 </section>
 
 <?php include("includes/footer.php");?>		

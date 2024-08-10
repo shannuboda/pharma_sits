@@ -135,12 +135,13 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 
 	
 	<?php include('includes/header.php');?>
+
 <section>
 	<div class="page_banner">
-		<img src="images/page_banner/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="dt_img">
-		<img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="mob_img">
+		<img src="images/page_banner/research.jpg" alt="SITS PHARMA Research" class="dt_img">
+		<img src="images/page_banner/mobile/research.jpg" alt="SITS PHARMA Research" class="mob_img">
 		<div class="content1 right">
-			<h1>Leading through innovation</h1>
+			<h1>Imagination has no limits</h1>
 		</div>
 	</div>
 </section>
@@ -151,56 +152,36 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 			<div class="col-md-12">
 				<section class="section_padding" id="tab_section">
 				    <div class="container">
-				          <div class="dept_sec">
+			              <div class="dept_title">
+			              	<h2>PCI</h2>
+			              </div>
+				          <div class="pages_tabs1">
+				          	<!-- Tab panes -->
+				          
 
-						          <h3 class="heading mt-0"><span>Departments</span></h3>
-						          <ul class="course_list">
-						            <li>
-						            	<a href="dpt-pharmaceutics.php">
-							            	<!-- <img src="images/departments/dpt-pharmaceutics.jpg" alt="Pharmaceutics"> -->
-							            	<img src="images/academics/departments/pharmaceutics.jpg" alt="pharmaceutics">
-							            	<span>Pharmaceutics</span>
-							            </a>
-						            </li>
 
-						            <li>
-						            	<a href="dpt-pharmaceutical-chemistry.php">
-							            	<!-- <img src="images/departments/dpt-pharmaceutical-chemistry.jpg" alt="Pharmaceutical Chemistry"> -->
-							            	<img src="images/academics/departments/pharmaceutical-chemistry.jpg" alt="pharmaceutical-chemistry">
-							            	<span>Pharmaceutical Chemistry</span>
-							            </a>
-						            </li>
-						            <li>
-						            	<a href="dpt-pharmacology.php">
-							            	<!-- <img src="images/departments/dpt-pharmacology.jpg" alt="Pharmacology"> -->
-							            	<img src="images/academics/departments/pharmacology.jpg" alt="pharmacology">
-							            	<span>Pharmacology</span>
-							            </a>
-						            </li>
+				          	<div class="course_section">
+					          	<!-- <div class="stickyTitle">
+					          		<div class="title">
+						             <h2>Department of Physics</h2>
+						          	</div>
+						          	
+					          	</div> -->
+					          	<div class="">
+						              <div class="tab-content" id="tab_parent">
+						                <div id="tab0" class="tab-pane active">
+						                	<h4>PCI</h4>
+						                	<a href="./downloads/SIF-C.pdf">SIF-C</a>
+						                </div>
+						                
+						                
+						              </div>
+						          </div>
 
-						            <li>
-						            	<a href="dpt-pharmacogonosy.php" title="Know more about Branches">
-						            		<!-- <img src="images/departments/dpt-pharmacogonosy.jpg" alt="Pharmacogonosy"> -->
-						            		<img src="images/academics/departments/pharmacognosy.jpg" alt="pharmacognosy">
-						            		<span>Pharmacogonosy</span>
-						            	</a>
-						            </li>
-						            <li>
-						            	<a href="dpt-pharmaceutical-analysis.php">
-						            		<!-- <img src="images/departments/dpt-pharmaceutical-analysis.jpg" alt="Pharmaceutical Analysis"> -->
-						            		<img src="images/academics/departments/pharmaceutical-analysis.jpg" alt="pharmaceutical-analysis">
-						            		<span>Pharmaceutical Analysis</span>
-						            	</a>
-						            </li>
-
-						            <li>
-						            	<a href="dpt-pharmacy-practice.php">
-							            	<!-- <img src="images/departments/dpt-pharmacy-practice.jpg" alt="Pharmacy Practice"> -->
-							            	<img src="images/academics/departments/pharmacy-practices.jpg" alt="pharmacy-practices">
-							            	<span>Pharmacy Practice</span>
-							            </a>
-							        </li>
-						          </ul>              
+						          
+						      </div>
+				              <!-- Nav tabs -->
+				              
 
 				          </div>
 				    </div>
@@ -242,13 +223,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
     font-size: 14px;
 }
 </style>
-	  <script 
-      type="text/javascript"
-      src="https://d2jyl60qlhb39o.cloudfront.net/integration-plugin.js"
-      id="wa-widget"
-      widget-id="MEwtb8"
-    >
-    </script>
+	
 	<script src="js/custom.js"></script>
 	<!--<button type="button" class="npfWidgetButton npfWidget-a347f84b7fa3ecd0635a90e3f5a6fec7 blinking">Admission Enquiry!</button><script src="https://in5cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa347f84b7fa3ecd0635a90e3f5a6fec7 = new NpfWidgetsInit({'widgetId': 'a347f84b7fa3ecd0635a90e3f5a6fec7','baseurl': 'widgets.in5.nopaperforms.com','formTitle': 'Admission Enquiry','titleColor': '#FF0033','backgroundColor': '#ddd','iframeHeight': '500px','buttonbgColor': '#ff0000','buttonTextColor': '#FFF',    });</script>-->
 	

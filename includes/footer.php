@@ -64,13 +64,7 @@ Hyderabad, Telangana 501301
 					<div class="col left">
 						&copy; 2024. SITS College of Pharmacy
 					</div>
-					<div class="col right">
-					<ul class="footer_list">
-					<li><a href="terms-conditions.php">Terms & Conditions</a></li>
-					<li><a href="privacy-policy.php">Privacy Policy</a></li>
-					<li><a href="refund-policy.php">Refund Policy</a></li>
-					</ul>
-					</div>
+					
 				</div>
 			</div>
 		</div>

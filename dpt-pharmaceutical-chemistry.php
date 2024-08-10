@@ -46,7 +46,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KMCH College of Pharmacy</title>
+	<title>SITS PHARMA College of Pharmacy</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -160,7 +160,7 @@ z-index: 999 !important;
 }
     </style>
 <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 	
 <!--<div class="whatsapp">
@@ -171,7 +171,7 @@ z-index: 999 !important;
 </head>
 
 <body class="innerPage">
-<script type="text/javascript"> var npf_d='https://admissions.kmch.ac.in'; var npf_c='5143'; var
+<script type="text/javascript"> var npf_d='https://admissions.SITS PHARMA.ac.in'; var npf_c='5143'; var
 npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true;
 s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
 	<div id="fb-root"></div>
@@ -182,8 +182,8 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 
 <section>
 	<div class="page_banner">
-		<img src="images/page_banner/drugs_medicine.jpg" alt="About KMCH Pharmacy" class="dt_img">
-		<img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About KMCH Pharmacy" class="mob_img">
+		<img src="images/page_banner/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="dt_img">
+		<img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="mob_img">
 		<div class="content1 right">
 			<h1>Leading through innovation</h1>
 		</div>
@@ -239,7 +239,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                		</div>
 						                		<div class="col-md-5">
 						                			<span class="wrap_image_sec mr-0">
-						                				<img src="images/academics/departments/pharmaceutical-chemistry-fa/facility.jpg" alt="KMCH" class="w-100">
+						                				<img src="images/academics/departments/pharmaceutical-chemistry-fa/facility.jpg" alt="SITS PHARMA" class="w-100">
 						                			</span>
 						                		</div>
 						                	</div>
@@ -247,7 +247,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                	<div class="row">
 						                		<div class="col-md-5">
 						                			<span class="wrap_image_sec mr-0">
-						                				<img src="images/academics/departments/pharmaceutical-chemistry-fa/activity.jpg" alt="KMCH" class="w-100">
+						                				<img src="images/academics/departments/pharmaceutical-chemistry-fa/activity.jpg" alt="SITS PHARMA" class="w-100">
 						                			</span>
 						                		</div>
 						                		<div class="col-md-7">
@@ -263,7 +263,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                		<div class="row">
 						                			<div class="cols">
 						                				<a href="pdf/faculty/pharmaceutical-chemistry/dr_suresh_kumar_k.pdf" target="_blank" class="item">
-						                					<img src="images/faculty/pharmaceutical-chemistry/sureshkumar.jpg" alt="KMCH Staff">
+						                					<img src="images/faculty/pharmaceutical-chemistry/sureshkumar.jpg" alt="SITS PHARMA Staff">
 						                					<div class="bottom">
 						                						<h5>Dr. Suresh Kumar K</h5>
 						                						<span>Professor - HOD</span>
@@ -273,7 +273,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                			</div>
 						                			<div class="cols">
 						                				<a href="pdf/faculty/pharmaceutical-chemistry/dr_sivakumar_k_k.pdf" target="_blank" class="item">
-						                					<img src="images/faculty/pharmaceutical-chemistry/sivakumar_kk.jpg" alt="KMCH Staff">
+						                					<img src="images/faculty/pharmaceutical-chemistry/sivakumar_kk.jpg" alt="SITS PHARMA Staff">
 						                					<div class="bottom">
 						                						<h5>Dr. Sivakumar KK</h5>
 						                						<span>Assoc. Prof.</span>
@@ -283,7 +283,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                			</div>
 													<div class="cols">
 			                				<a href="pdf/faculty/kiruthiga.pdf" target="_blank" class="item">
-			                					<img src="images/faculty/kiruthiga.jpg" alt="KMCH Staff">
+			                					<img src="images/faculty/kiruthiga.jpg" alt="SITS PHARMA Staff">
 			                					<div class="bottom">
 			                						<h5>Dr. Kiruthiga N</h5>
 			                						<span>Assoc. Prof.</span>
@@ -294,15 +294,15 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						                			
 						                			<!--<div class="cols">
 						                				<a href="pdf/faculty/pharmaceutical-chemistry/mr_yuvaraja_k_r.pdf" target="_blank" class="item">
-						                					<img src="images/faculty/pharmaceutical-chemistry/yuvaraja.jpg" alt="KMCH Staff">
+						                					<img src="images/faculty/pharmaceutical-chemistry/yuvaraja.jpg" alt="SITS PHARMA Staff">
 						                					<div class="bottom">
 						                						<h5>Mr. Yuvaraja KR</h5>
 						                						<span>Asst. Prof.</span>
 						                						<p class="btn">View Profile</p>
 						                					</div>
 						                				</a>
-						                			</div> -->																										<div class="cols">						                				<a href="pdf/faculty/pharmaceutical-chemistry/dhineshkumar.pdf" target="_blank" class="item">						                					<img src="images/faculty/pharmaceutical-chemistry/dhineshkumar.jpg" alt="KMCH Staff">						                					<div class="bottom">						                						<h5>Mr.Dhinesh Kumar S</h5>						                						<span>Asst. Prof.</span>						                						<p class="btn">View Profile</p>						                					</div>						                				</a>						                			</div>													<div class="cols">			                				<a href="pdf/faculty/sathyapooja.pdf" target="_blank" class="item">			                					<img src="images/faculty/sathyapooja.jpg" alt="KMCH Staff">			                					<div class="bottom">			                						<h5>Mrs. G. Sathya Pooja</h5>			                						<span>Lecturer</span>			                						<p class="btn">View Profile</p>			                					</div>			                				</a>			                			</div>
-						                	<div class="cols">			                				<a href="pdf/faculty/pharmaceutical-chemistry/banupriya.pdf" target="_blank" class="item">			                					<img src="images/faculty/pharmaceutical-chemistry/banupriya.jpg" alt="KMCH Staff">			                					<div class="bottom">			                						<h5>Ms. S. Banupriya</h5>			                						<span>Lecturer</span>			                						<p class="btn">View Profile</p>			                					</div>			                				</a>			                			</div>		
+						                			</div> -->																										<div class="cols">						                				<a href="pdf/faculty/pharmaceutical-chemistry/dhineshkumar.pdf" target="_blank" class="item">						                					<img src="images/faculty/pharmaceutical-chemistry/dhineshkumar.jpg" alt="SITS PHARMA Staff">						                					<div class="bottom">						                						<h5>Mr.Dhinesh Kumar S</h5>						                						<span>Asst. Prof.</span>						                						<p class="btn">View Profile</p>						                					</div>						                				</a>						                			</div>													<div class="cols">			                				<a href="pdf/faculty/sathyapooja.pdf" target="_blank" class="item">			                					<img src="images/faculty/sathyapooja.jpg" alt="SITS PHARMA Staff">			                					<div class="bottom">			                						<h5>Mrs. G. Sathya Pooja</h5>			                						<span>Lecturer</span>			                						<p class="btn">View Profile</p>			                					</div>			                				</a>			                			</div>
+						                	<div class="cols">			                				<a href="pdf/faculty/pharmaceutical-chemistry/banupriya.pdf" target="_blank" class="item">			                					<img src="images/faculty/pharmaceutical-chemistry/banupriya.jpg" alt="SITS PHARMA Staff">			                					<div class="bottom">			                						<h5>Ms. S. Banupriya</h5>			                						<span>Lecturer</span>			                						<p class="btn">View Profile</p>			                					</div>			                				</a>			                			</div>		
 						                		</div>
 						                	</div>
 						                </div>						                

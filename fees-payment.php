@@ -33,7 +33,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KMCH College of Pharmacy</title>
+	<title>SITS PHARMA College of Pharmacy</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -147,7 +147,7 @@ z-index: 999 !important;
 }
     </style>
 <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 	
 <!--<div class="whatsapp">
@@ -158,7 +158,7 @@ z-index: 999 !important;
 </head>
 
 <body class="innerPage">
-<script type="text/javascript"> var npf_d='https://admissions.kmch.ac.in'; var npf_c='5143'; var
+<script type="text/javascript"> var npf_d='https://admissions.SITS PHARMA.ac.in'; var npf_c='5143'; var
 npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true;
 s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
 	<div id="fb-root"></div>
@@ -187,7 +187,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 			              	<h2>Online Fee Payment</h2>
 			              </div>
 				          	<div class="course_section">  
-								<p>KMCH College of Pharmacy has facilitated the payment of fees through online for the convenience of parents and students. The online payments can be made through various options.</p>	
+								<p>SITS PHARMA College of Pharmacy has facilitated the payment of fees through online for the convenience of parents and students. The online payments can be made through various options.</p>	
 								<h4>Steps to make online payment</h4>
 								<ul class="ul_style">
 								 <li>Enter your Roll No , Date of Birth and click <span>"Pay Now"</span></li>	
@@ -227,7 +227,7 @@ s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s)
 						  <p>There is no cancellation option for the students / parents. In case of duplicate payment, the end user can approach the accounts department in the college for clarification or refund with proof of the transaction. Based on submission of proof for of transaction, it shall be verified and refunded.</p>
 						  <h4>Declaration</h4>
 						  <p>I fully read and understand the above policy in connection with online payment of fees to the college. I shall be abide by the terms and conditions in force or modified from time to time pertaining to the online payment to the institution.</p>
-						  <form name="pay" method="post" action="https://formbuilder.ccavenue.com/live/ccavenue/kmch/kmch-college-of-pharmacy" class="fsubmit" target="blank" enctype="multipart/form-data" onsubmit="return callme();">    <input type="checkbox" onchange="document.getElementById('sendNewSms').disabled = !this.checked;" id="checkboxid">    &nbsp;I accept all Terms and Conditions <p></p>    <input type="submit" name="sendNewSms" class="btn" id="sendNewSms" value=" Submit" disabled="">	</form>
+						  <form name="pay" method="post" action="https://formbuilder.ccavenue.com/live/ccavenue/SITS PHARMA/SITS PHARMA-college-of-pharmacy" class="fsubmit" target="blank" enctype="multipart/form-data" onsubmit="return callme();">    <input type="checkbox" onchange="document.getElementById('sendNewSms').disabled = !this.checked;" id="checkboxid">    &nbsp;I accept all Terms and Conditions <p></p>    <input type="submit" name="sendNewSms" class="btn" id="sendNewSms" value=" Submit" disabled="">	</form>
 							  </div>
 				          </div>
 				    </div>

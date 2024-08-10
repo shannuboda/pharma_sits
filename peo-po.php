@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>KMCH College of Pharmacy</title>
+    <title>SITS PHARMA College of Pharmacy</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -161,7 +161,7 @@
     }
     </style>
     <!--<div class="floating_icon d-block d-sm-block d-md-none">
-		<a href="https://pharmapply.kmch.ac.in" class="apply_online blinking">Online Admission</a>	
+		<a href="https://pharmapply.SITS PHARMA.ac.in" class="apply_online blinking">Online Admission</a>	
 	</div> -->
 
     <!--<div class="whatsapp">
@@ -173,7 +173,7 @@
 
 <body class="innerPage">
     <script type="text/javascript">
-    var npf_d = 'https://admissions.kmch.ac.in';
+    var npf_d = 'https://admissions.SITS PHARMA.ac.in';
     var npf_c = '5143';
     var
         npf_m = '1';
@@ -191,8 +191,8 @@
     <?php include('includes/header.php');?>
     <section>
         <div class="page_banner">
-            <img src="images/page_banner/drugs_medicine.jpg" alt="About KMCH Pharmacy" class="dt_img">
-            <img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About KMCH Pharmacy" class="mob_img">
+            <img src="images/page_banner/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="dt_img">
+            <img src="images/page_banner/mobile/drugs_medicine.jpg" alt="About SITS PHARMA Pharmacy" class="mob_img">
             <div class="content1 right">
                 <h1>Leading through innovation</h1>
             </div>
@@ -333,6 +333,69 @@
                                                 </div>
                                             </div>
 
+                                            <div id="tab4" class="tab-pane">
+                                                <h4>Awards</h4>
+                                                <b>The college gives awards to meritorious students who secured the
+                                                    first three positions in their final examinations. The college also
+                                                    distributes prizes to the students who excel in the field of
+                                                    sports.</b>
+
+                                                <div class="row">
+                                                    <h4>STUDENT AWARD</h4>
+
+                                                    <p>The College has been prompt and generous in recognizing,
+                                                        appreciating, and encouraging meritorious students towards
+                                                        excellence in curricular and extracurricular activities. Special
+                                                        Cash Prizes are awarded to the students securing ranks and
+                                                        prizes in: Paper Presentation in Symposia / Conference, Quiz,
+                                                        Publication of Research Papers in Journals & Proficiency in R &
+                                                        D activities. Cash Prizes, Certificates of Appreciation, and
+                                                        Books are awarded to students securing first or second rank in
+                                                        every semester or every year, securing centum in individual
+                                                        subjects, or for 100% attendance in every academic year.</p>
+
+                                                    <p>Preparing students for leadership requires four years of
+                                                        carefully developed and rigorous education. The Siddhartha
+                                                        Institute of Technology and Sciences has an approach to learning
+                                                        that immerses students in great ideas. By developing a highly
+                                                        sophisticated biblical worldview, our students are able to
+                                                        communicate persuasively in the real world.</p>
+
+                                                    <p>Our academic program is straightforward – we prepare students for
+                                                        a lifetime in the areas of government, business, law, the media,
+                                                        civil society, and education.</p>
+
+                                                    <h4>Teaching Award</h4>
+
+                                                    <p>Presented to a faculty member in Siddhartha Group of Institutions
+                                                        whose activities and accomplishments demonstrate unusually
+                                                        significant and meritorious achievement in teaching during the
+                                                        previous three academic years.</p>
+
+                                                    <h4>Service Award</h4>
+
+                                                    <p>Presented to a faculty member in Siddhartha Group of Institutions
+                                                        who has made significant service contributions to the College of
+                                                        Engineering.</p>
+
+                                                    <h4>Research Award</h4>
+
+                                                    <p>Presented to a faculty member in Siddhartha Group of Institutions
+                                                        who has made significant contributions to the advancement of
+                                                        engineering science and technology.</p>
+
+                                                    <h4>Staff Excellence Award</h4>
+
+                                                    <p>Presented to an Engineering staff member who provides outstanding
+                                                        service to Siddhartha Group of Institutions, has a positive
+                                                        attitude that impacts and improves the work atmosphere within
+                                                        the College, leaves a lasting impression with the College and
+                                                        its constituents, and demonstrates a commitment to the College
+                                                        and its mission.</p>
+
+                                                </div>
+                                            </div>
+
                                         </div>
                                     </div>
 
@@ -385,9 +448,7 @@
         font-size: 14px;
     }
     </style>
-    <script type="text/javascript" src="https://d2jyl60qlhb39o.cloudfront.net/integration-plugin.js" id="wa-widget"
-        widget-id="MEwtb8">
-    </script>
+  
     <script src="js/custom.js"></script>
     <!--<button type="button" class="npfWidgetButton npfWidget-a347f84b7fa3ecd0635a90e3f5a6fec7 blinking">Admission Enquiry!</button><script src="https://in5cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa347f84b7fa3ecd0635a90e3f5a6fec7 = new NpfWidgetsInit({'widgetId': 'a347f84b7fa3ecd0635a90e3f5a6fec7','baseurl': 'widgets.in5.nopaperforms.com','formTitle': 'Admission Enquiry','titleColor': '#FF0033','backgroundColor': '#ddd','iframeHeight': '500px','buttonbgColor': '#ff0000','buttonTextColor': '#FFF',    });</script>-->
 
@@ -412,6 +473,51 @@
 	}
 	</style>
 	-->
+
+    <script>
+       document.addEventListener("DOMContentLoaded", function() {
+    function activateTabFromHash() {
+        // Get the hash from the URL
+        const hash = window.location.hash;
+
+        // Get all tab content elements
+        const tabs = document.getElementsByClassName("tab-pane");
+
+        // Get all nav links
+        const navLinks = document.querySelectorAll('.nav-link');
+
+        // Deactivate all tabs and nav links
+        for (let i = 0; i < tabs.length; i++) {
+            tabs[i].classList.remove("active");
+        }
+
+        navLinks.forEach(link => {
+            link.classList.remove('active');
+        });
+
+        // If there's a hash and it matches an element ID, activate that tab and corresponding nav link
+        if (hash) {
+            const activeTab = document.querySelector(hash);
+            const activeNavLink = document.querySelector(`a[href="${hash}"]`);
+
+            if (activeTab) {
+                activeTab.classList.add("active");
+            }
+
+            if (activeNavLink) {
+                activeNavLink.classList.add('active');
+            }
+        }
+    }
+
+    // Activate the tab on page load
+    activateTabFromHash();
+
+    // Activate the tab when the hash changes (if using anchor links to switch tabs)
+    window.addEventListener("hashchange", activateTabFromHash);
+});
+
+    </script>
 </body>
 
 </html>
