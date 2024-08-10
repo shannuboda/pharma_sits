@@ -1,5 +1,7 @@
 
 document.addEventListener("DOMContentLoaded", function() {
+  
+
 function activateTabFromHash() {
  // Get the hash from the URL
  const hash = window.location.hash;
@@ -39,4 +41,6 @@ activateTabFromHash();
 
 // Activate the tab when the hash changes (if using anchor links to switch tabs)
 window.addEventListener("hashchange", activateTabFromHash);
+
 });
+

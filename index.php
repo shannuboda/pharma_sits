@@ -209,144 +209,175 @@
         margin: 0 auto;
         width: 100% !important;
     }
-	
 
-.slideshow-container {
-    max-width: 100%;
-    position: relative;
-    margin: auto;
-    overflow: hidden;
-    background: #000;
-	margin-top:10rem;
-}
 
-.slides-wrapper {
-    display: flex;
-    transition: transform 0.5s ease-in-out;
-}
+    .slideshow-container {
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+        overflow: hidden;
+        background: #000;
+        margin-top: 9rem;
+    }
 
-.mySlides {
-    min-width: 100%;
-}
+    .slides-wrapper {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+    }
 
-img {
-    vertical-align: middle;
-    width: 100%;
-    height: auto;
-}
+    .mySlides {
+        min-width: 100%;
+    }
 
-/* Next & previous buttons */
-.prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    padding: 16px;
-    margin-top: -22px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-    z-index: 1;
-}
+    img {
+        vertical-align: middle;
+        width: 100%;
+        height: auto;
+    }
 
-.next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-}
+    /* Next & previous buttons */
+    .prev,
+    .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        padding: 16px;
+        margin-top: -22px;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+        z-index: 1;
+    }
 
-.prev:hover, .next:hover {
-    background-color: #ffffff;
-}
+    .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+    }
 
-/* The dots/bullets/indicators */
-.dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-}
+    .prev:hover,
+    .next:hover {
+        background-color: #ffffff;
+    }
 
-.active, .dot:hover {
-    background-color: #717171;
-}
+    /* The dots/bullets/indicators */
+    .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+    }
 
+    .active,
+    .dot:hover {
+        background-color: #717171;
+    }
     </style>
 
     <?php include('includes/header.php');?>
     <section>
-	<div class="slideshow-container">
-    <div class="slides-wrapper">
-        <div class="mySlides">
-            <img src="./images/about/7.png" style="width:100%">
+        <div class="slideshow-container">
+            <div class="slides-wrapper">
+                <div class="mySlides">
+                    <img src="./images/about/7.png" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/8-1.png" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/8.png" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/1.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about//1-1.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/3.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/4.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/5.jpg" style="width:100%">
+                </div>
+
+                <div class="mySlides">
+                    <img src="./images/about/6.jpg" style="width:100%">
+                </div>
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
         </div>
 
-        <div class="mySlides">
-            <img src="./images/about/8-1.png" style="width:100%">
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+            <span class="dot" onclick="currentSlide(6)"></span>
+            <span class="dot" onclick="currentSlide(7)"></span>
+            <span class="dot" onclick="currentSlide(8)"></span>
+            <span class="dot" onclick="currentSlide(9)"></span>
         </div>
-
-        <div class="mySlides">
-            <img src="./images/about/8.png" style="width:100%">
-        </div>
-    </div>
-
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-
-<div style="text-align:center">
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
-</div>
 
     </section>
 
     <script>
-   // Change image every 5 seconds
-   let slideIndex = 0;
-const slides = document.getElementsByClassName("mySlides");
-const dots = document.getElementsByClassName("dot");
+    // Change image every 5 seconds
+    let slideIndex = 0;
+    const slides = document.getElementsByClassName("mySlides");
+    const dots = document.getElementsByClassName("dot");
 
-function showSlides(n) {
-    if (n >= slides.length) {
-        slideIndex = 0;
-    } else if (n < 0) {
-        slideIndex = slides.length - 1;
-    } else {
-        slideIndex = n;
+    function showSlides(n) {
+        if (n >= slides.length) {
+            slideIndex = 0;
+        } else if (n < 0) {
+            slideIndex = slides.length - 1;
+        } else {
+            slideIndex = n;
+        }
+
+        document.querySelector(".slides-wrapper").style.transform = `translateX(${-slideIndex * 100}%)`;
+
+        for (let i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        dots[slideIndex].className += " active";
     }
-    
-    document.querySelector(".slides-wrapper").style.transform = `translateX(${-slideIndex * 100}%)`;
-    
-    for (let i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
+
+    function plusSlides(n) {
+        showSlides(slideIndex + n);
     }
-    dots[slideIndex].className += " active";
-}
 
-function plusSlides(n) {
-    showSlides(slideIndex + n);
-}
+    function currentSlide(n) {
+        showSlides(n - 1);
+    }
 
-function currentSlide(n) {
-    showSlides(n - 1);
-}
+    // Initialize the first slide
+    showSlides(slideIndex);
 
-// Initialize the first slide
-showSlides(slideIndex);
-
-// Auto-slide
-setInterval(function() {
-    plusSlides(1);
-}, 5000); // Change image every 5 seconds
-
+    // Auto-slide
+    setInterval(function() {
+        plusSlides(1);
+    }, 5000); // Change image every 5 seconds
     </script>
     <div class="modal fade" id="basicExampleModal08013112" tabindex="-1" role="dialog"
         aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -393,9 +424,15 @@ setInterval(function() {
 
                     <p class="text-center mb-0">
 
-					Our execution of Pharmacy programs is focused on one to one teaching learning experience; each and every candidate has an opportunity to enhance their knowledge and skill set. Our focus is on their holistic development, through a logical and systemic blend of co-curricular and extracurricular activities, this is facilitated by our talented and enthusiastic faculty.
+                        Our execution of Pharmacy programs is focused on one to one teaching learning experience; each
+                        and every candidate has an opportunity to enhance their knowledge and skill set. Our focus is on
+                        their holistic development, through a logical and systemic blend of co-curricular and
+                        extracurricular activities, this is facilitated by our talented and enthusiastic faculty.
 
-Through the efforts of our accomplished faculty, our talented students and exceptional alumni, we have been able to make rapid progress on our path of continuous growth and developing into among one the remarkable institute in pharmacy education in the country I look forward to welcoming you all at SIP.
+                        Through the efforts of our accomplished faculty, our talented students and exceptional alumni,
+                        we have been able to make rapid progress on our path of continuous growth and developing into
+                        among one the remarkable institute in pharmacy education in the country I look forward to
+                        welcoming you all at SIP.
 
                     </p>
 
@@ -417,7 +454,7 @@ Through the efforts of our accomplished faculty, our talented students and excep
 
             <div class="title white" data-aos="fade-up">
 
-                <h2 class="mb-0">Explore SITS PHARMA COP</h2>
+                <h2 class="mb-0">Explore SITS PHARMA</h2>
 
             </div>
 
@@ -433,7 +470,7 @@ Through the efforts of our accomplished faculty, our talented students and excep
 
                         <a href="about-us.php#tab4">
 
-                            <img src="images/ngp/institutions_02.jpg" alt="">
+                            <img src="https://pr6.nicelocal.in/fCiX9dYd0zbiWYo0qeIqMA/640x360,q85/aUNift_YHO8vu0otYLoBwK7M16SwrFEIGm6VNDmxRTA3_tvs1KfnyvEbbBo36lF9Eip5AHmldV9fx9u_tUV3rkoYdcIPHsDEhXuCZb64O54WZjiwtlyHXX-X9TIaukie" alt="">
 
                             <div class="ngp-ins-boxin">
 
@@ -489,7 +526,7 @@ Through the efforts of our accomplished faculty, our talented students and excep
 
 
 
-                 
+
 
                 </div>
 
@@ -510,7 +547,7 @@ Through the efforts of our accomplished faculty, our talented students and excep
 
         </div> -->
 
-      
+
     </section>
 
 
@@ -551,7 +588,7 @@ Through the efforts of our accomplished faculty, our talented students and excep
 
 
 
-   
+
 
     <section class="features section_padd">
 
@@ -648,7 +685,7 @@ Through the efforts of our accomplished faculty, our talented students and excep
         font-size: 14px;
     }
     </style>
-    
+
     <script src="js/custom.js"></script>
     <!--<button type="button" class="npfWidgetButton npfWidget-a347f84b7fa3ecd0635a90e3f5a6fec7 blinking">Admission Enquiry!</button><script src="https://in5cdn.npfs.co/js/widget/npfwpopup.js"></script><script>let npfWa347f84b7fa3ecd0635a90e3f5a6fec7 = new NpfWidgetsInit({'widgetId': 'a347f84b7fa3ecd0635a90e3f5a6fec7','baseurl': 'widgets.in5.nopaperforms.com','formTitle': 'Admission Enquiry','titleColor': '#FF0033','backgroundColor': '#ddd','iframeHeight': '500px','buttonbgColor': '#ff0000','buttonTextColor': '#FFF',    });</script>-->
 

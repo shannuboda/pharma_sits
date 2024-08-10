@@ -399,7 +399,7 @@
                                                         </div>
                                                         <div class="cols">
                                                             <div class="item">
-                                                                <img src="" alt="">
+                                                                <img src="./images/governing_body/dummy.jpg" alt="">
                                                                 <div class="bottom">
                                                                     <h5>Sri. C. Amaravathi</h5>
                                                                     <span>Member</span>
@@ -419,7 +419,7 @@
                                                         </div>
                                                         <div class="cols">
                                                             <div class="item">
-                                                                <img src="" alt="">
+                                                                <img src="./images/governing_body/dummy.jpg" alt="">
                                                                 <div class="bottom">
                                                                     <h5>Smt. V Vedavati</h5>
                                                                     <span>Member</span>
@@ -429,7 +429,7 @@
                                                         </div>
                                                         <div class="cols">
                                                             <div class="item">
-                                                                <img src="" alt="">
+                                                                <img src="./images/governing_body/dummy.jpg" alt="">
                                                                 <div class="bottom">
                                                                     <h5>Sri T. Sreepathi Rao</h5>
                                                                     <span>Member</span>
@@ -439,7 +439,7 @@
                                                         </div>
                                                         <div class="cols">
                                                             <div class="item">
-                                                                <img src="" alt="">
+                                                                <img src="./images/governing_body/dummy.jpg" alt="">
                                                                 <div class="bottom">
                                                                     <h5>Dr. P Madhusudana Rao</h5>
                                                                     <span>Member</span>
@@ -449,7 +449,7 @@
                                                         </div>
                                                         <div class="cols">
                                                             <div class="item">
-                                                                <img src="" alt="">
+                                                                <img src="./images/governing_body/dummy.jpg" alt="">
                                                                 <div class="bottom">
                                                                     <h5>Dr. C Suman Kumar</h5>
                                                                     <span>Member</span>
@@ -469,7 +469,7 @@
                                                         </div>
                                                         <div class="cols">
                                                             <div class="item">
-                                                                <img src="" alt="">
+                                                                <img src="./images/governing_body/dummy.jpg" alt="">
                                                                 <div class="bottom">
                                                                     <h5>Dr. V. Parvathi</h5>
                                                                     <span>University Nominee</span>

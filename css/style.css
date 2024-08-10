@@ -1670,7 +1670,7 @@ blockquote {
 
     width: 100%;
 
-    border-bottom: 4px solid #62bb47;
+    border-bottom: 4px solid orangered;
 
 }
 
@@ -1681,6 +1681,8 @@ blockquote {
 	display: flex;
 
 	justify-content: space-between;
+    text-transform: uppercase!important;
+    font-size: 0.7em!important;
 
 }
 
@@ -1844,7 +1846,7 @@ blockquote {
 
 .menu .has-sub:hover > a, .menu a:hover, .menu a.active{
 
-	background-color: #62bb47;
+	background-color: orangered;
 
 	color: #fff;
 
@@ -1872,7 +1874,7 @@ blockquote {
 
     top: 200%;
 
-    background-color: #62bb47;
+    background-color: orangered;
 
     opacity: 0;
 
@@ -4711,6 +4713,7 @@ header > .menuIcon{
     .menu .parent {
 
         display: block;
+       
 
     }
 

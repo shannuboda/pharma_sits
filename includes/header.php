@@ -94,6 +94,8 @@ echo "";
 					
 					
 					<li><a class="<?php echo $currentPage ==='pci.php'?'active':'';?>" href="pci.php">PCI</a></li>
+					<li><a class="" href="antiragging.php">Anti Ragging</a></li>
+					<li><a class="" href="gallery.php">Gallery</a></li>
 					
 					<li><a class="" href="https://www.vmedulife.com/institute/e-grievance/home/sip-hyderabad">E-Grievance Portal</a></li>
 					

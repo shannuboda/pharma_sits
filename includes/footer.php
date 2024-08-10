@@ -70,8 +70,8 @@ Hyderabad, Telangana 501301
 		</div>
 		</footer>
 
-		<a href="#top" class="moveToTop" style="">
+		<a href="#top" class="moveToTop" style="" id="moveToTop">
 		    <img src="images/go_to_top.png" alt="top">
 		</a>
-		<div id="admission_2024"><p><a target="_blank" href="https://drngpret.integratededucation.pwc.in/crmapplicant/app/account/applicantenquiry/SITSCOP/SITSCOP_CAMP">Admissions</a></p><span>Existing User? <a target="_blank" href="https://drngpret.integratededucation.pwc.in/crmapplicant/app/account/login">Login</a></span></div>
+		<div id="admission_2024"><p><a href="admission.php#tab3">Admissions</a></p></div>
 					</footer>

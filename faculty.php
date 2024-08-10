@@ -180,7 +180,7 @@
     <section>
         <div class="page_banner">
             <img src="images/page_banner/about-us.jpg" alt="About NGP Physiotherapy" class="dt_img">
-            <img src="images/page_banner/about-us-mob.jpg" alt="About NGP Physiotherapy" class="mob_img">
+            <img src="images/page_banner/mobile/about-us-mob.jpg" alt="About NGP Physiotherapy" class="mob_img">
             <div class="content1 right">
                 <h1>Talent works, Genius creates</h1>
             </div>
